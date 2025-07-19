@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000
+SD
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000
+HD
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=100000
+UHD
+
+
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/uydidwzleznktuq5btwwe/logo-4.jpg?rlkey=nvqxtzx2vc2dwoc5phvm02y7y&dl=1" tvg-id="group-title="Sky Sports Group",Sky Sports Racing HD
+http://thepiratescove.co.uk:80/live/rayFCCNE/tuuTdxFf/31895.m3u8
+
